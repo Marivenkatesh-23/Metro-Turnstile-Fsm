@@ -65,7 +65,7 @@ Below is the waveform generated from the simulation showing the state transition
 
 ---
 
-## 🧩 Key Learnings
+## Key Learnings
 - FSM-based access control system design  
 - Timer-controlled state transitions  
 - Input validation logic in Verilog  
